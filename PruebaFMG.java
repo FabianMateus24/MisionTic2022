@@ -1,9 +1,10 @@
-public class PruebaFMG{
 
-    public static void name(){
+public class PruebaFMG {
 
-        system.out.print("Prueba Mision Tic 2.0");
+    public static void main(String[] args) {
 
-}
+        System.out.println("Prueba Fmg Version 3");
+
+    }
 
 }
